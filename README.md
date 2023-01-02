@@ -1,5 +1,4 @@
 # Aluroni - Cardapio Digital
-Projeto feito durante curso intensivo na Alura.
 
 https://user-images.githubusercontent.com/108905023/208964849-574eb3d1-86a5-44fb-9528-ee1f3a3ec0ba.mp4
 
@@ -24,3 +23,12 @@ Carga Horária: 10h
 - Biblioteca classnames
 - Renderizar uma lista de componentes
 - Utilizar a pasta public
+- ESLint
+- BrowserRouter e HashRouter
+- Routes
+- useNavigate
+- useLocation
+
+
+https://user-images.githubusercontent.com/108905023/210259316-b5fe1350-3904-492c-9794-dea9709097fd.mp4
+
