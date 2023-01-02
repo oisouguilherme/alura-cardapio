@@ -1,6 +1,6 @@
 import styles from './Iten.module.scss'
 import { Prato } from 'types/Prato';
-import TagsPrato from 'components/TagsPrato';
+import TagsPrato from 'components/Tags/index';
 import { useNavigate } from 'react-router-dom';
 
 export default function Item(props: Prato){
